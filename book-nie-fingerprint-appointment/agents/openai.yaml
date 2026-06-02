@@ -1,0 +1,4 @@
+interface:
+  display_name: "Book NIE Fingerprint Appointment"
+  short_description: "Guide Spain NIE fingerprint cita booking"
+  default_prompt: "Use $book-nie-fingerprint-appointment to help me book a Spain extranjería fingerprint appointment."
